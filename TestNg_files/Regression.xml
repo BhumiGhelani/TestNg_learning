@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression" verbose="1" >
+    <test name="Group"   >
+        <groups>
+            <run>
+             <exclude name="endToend"></exclude>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="pkg_1.Tag_understanding" />
+            <class name="pkg_1.Second_example_tag" />
+        </classes>
+    </test>
+
+    <test name="Priority">
+
+        <classes>
+            <class name="pkg_1.Priority_learning" />
+        </classes>
+    </test>
+</suite>

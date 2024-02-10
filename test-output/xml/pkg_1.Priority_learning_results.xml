@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Priority"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.006">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc_004"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_007"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_002"
+                time="0.000"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_008"
+                time="0.000"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_010"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_009"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_003"
+                time="0.000"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_001"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_006"
+                time="0.001"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+            <testcase
+                name="tc_005"
+                time="0.000"
+                classname="pkg_1.Priority_learning">
+            </testcase>
+</testsuite>

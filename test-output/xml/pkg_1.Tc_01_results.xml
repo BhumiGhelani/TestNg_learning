@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homepage"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.570">
+    <properties></properties>
+
+
+
+            <testcase
+                name="header_menu_validation"
+                time="22.469"
+                classname="pkg_1.Tc_01">
+            </testcase>
+            <testcase
+                name="footer_validation"
+                time="0.101"
+                classname="pkg_1.Tc_01">
+            </testcase>
+</testsuite>
